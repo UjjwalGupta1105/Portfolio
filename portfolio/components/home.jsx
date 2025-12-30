@@ -145,7 +145,7 @@ const Home=()=>{
       bottom-[20px] md:bottom-[60px]
       left-1/2
       md:-translate-y-[-4%]
-      -translate-x-[45%]
+      -translate-x-[40%]
     "
   />
 
