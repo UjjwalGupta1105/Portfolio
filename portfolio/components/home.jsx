@@ -27,10 +27,10 @@ const Home=()=>{
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, ease: "easeOut" }}>
 
-        <div className="md:w-[90%] m-8 mt-1 mb-10 md:mb-0 mx-[auto] flex flex-col md:flex-row items-center
+        <div className="xl:w-[90%] m-8 mt-1 mb-10 xl:mb-0 mx-[auto] flex flex-col xl:flex-row items-center
         justify-between ">
-            <div className="order-2 md:order-1">
-            <div className="w-full lg:ml-[15px] h-[414px] md:h-[350px] flex flex-col items-center xl:items-start
+            <div className="order-2 xl:order-1">
+            <div className="w-full xl:ml-[15px] h-[370px] sm:h-[300px] md:h-[340] flex flex-col items-center xl:items-start
             text-center xl:text-left">
                 <h1 className="h1 inline-block flex-1 mt-0 m-5 mb-[2px]  p-2">Hi! I'm Ujjwal Gupta,<br/>
                 <TypeAnimation sequence={["Web Developer",2000,"Problem Solver",2000,"Fast Learner",2000]} 
@@ -44,11 +44,11 @@ const Home=()=>{
                     transform your ideas into seamless, engaging digital experiences.</p>
 
                 <div className="p-7">
-                    <a href="https://drive.google.com/file/d/1iViWex5tL8d2tF7ugnuQDCKRgl0hlGMQ/view" target="_blank">
+                    <a href="https://drive.google.com/file/d/1QqcPP-QzGhwBNa_yuKW68Ls2SI6ftMOy/view" target="_blank">
                        <div className="btn btn-lg btn-accent ">Resume<FiArrowRight className="rotate-320" size={27} /></div>
                      
                     </a>
-                    {/* <div className="btn btn-lg btn-accent ">Resume<FiArrowRight className="rotate-320" size={27} /></div> */}
+                    {/* <div className="btn btn-xl btn-accent ">Resume<FiArrowRight className="rotate-320" size={27} /></div> */}
                 </div>
 
                 <div>
@@ -57,14 +57,14 @@ const Home=()=>{
                 </div>
 
             </div>
-            <div className="flex flex-col md:flex-row items-center gap-6 mt-3 md:w-[95%] px-1 mx-auto">
+            <div className="flex flex-col xl:flex-row items-center gap-6 mt-3 xl:w-[95%] px-1 mx-auto">
                 {/* Phone */}
                 <a
                     href="tel:+919876543210"
                     className="text-[#5810ff] hover:scale-110 transition-transform duration-300"
                     aria-label="Phone"
                 >
-                    <FiPhone className="inline" size={25} /><span className="text-lg text-white"> (+91)6393295514</span>
+                    <FiPhone className="inline" size={25} /><span className="text-xl text-white"> (+91)6393295514</span>
                 </a>
 
                 {/* Email */}
@@ -73,13 +73,13 @@ const Home=()=>{
                     className="text-[#5810ff] hover:scale-110 transition-transform duration-300"
                     aria-label="Email"
                 >
-                    <FiMail className="inline" size={22} /><span className="text-lg text-white"> ujjwalgupta0506@gmail.com</span>
+                    <FiMail className="inline" size={22} /><span className="text-xl text-white"> ujjwaxlupta0506@gmail.com</span>
             
                 </a>
 
             </div>
-            <div className="mx-auto mt-10 md:w-[89%] px-4  ">
-                 <div className="flex gap-4 justify-center md:justify-start">
+            <div className="mx-auto mt-10 xl:w-[89%] px-4  ">
+                 <div className="flex gap-4 justify-center xl:justify-start">
                     <a
                         href="https://www.linkedin.com/in/ujjwal-gupta-b05130289/"
                         target="_blank"
@@ -89,7 +89,7 @@ const Home=()=>{
                         <FaLinkedinIn className="text-xl" />
                     </a>
                     <a
-                        href="https://github.com/UjjwalGupta1105"
+                        href="https://github.com/Ujjwaxlupta1105"
                         target="_blank"
                         className={`${baseStyle} ${hoverStyle}`}
                         title="GitHub"
@@ -98,21 +98,21 @@ const Home=()=>{
                     </a>
 
                     <a
-                        href="https://www.geeksforgeeks.org/profile/ujjwalgupta0506"
+                        href="https://www.geeksforgeeks.org/profile/ujjwaxlupta0506"
                         target="_blank"
                         className={`${baseStyle} ${hoverStyle}`}
                         title="GeeksforGeeks"
                     >
-                        <SiGeeksforgeeks className="text-lg" />
+                        <SiGeeksforgeeks className="text-xl" />
                     </a>
 
                     <a
-                        href="https://www.codechef.com/users/ujjwalgupta11"
+                        href="https://www.codechef.com/users/ujjwaxlupta11"
                         target="_blank"
                         className={`${baseStyle} ${hoverStyle}`}
                         title="CodeChef"
                     >
-                        <SiCodechef className="text-lg" />
+                        <SiCodechef className="text-xl" />
                     </a>
                    </div>
             </div>
@@ -120,16 +120,16 @@ const Home=()=>{
             <div
   className="
     relative z-20 flex justify-center items-center
-    w-full md:w-[22%] flex-1
-    order-1 md:order-2
-    min-h-[320px] md:min-h-[560px]
+    w-full xl:w-[22%] flex-1
+    order-1 xl:order-2
+    min-h-[320px] xl:min-h-[560px]
   "
 >
   {/* Blob */}
   <Blob
     containerStyles="
       w-[320px] h-[320px]
-      md:w-[560px] md:h-[560px]
+      xl:w-[560px] xl:h-[560px]
     "
   />
 
@@ -141,10 +141,10 @@ const Home=()=>{
     height={410}
     className="
       absolute
-      w-[220px] md:w-[410px]
-      bottom-[20px] md:bottom-[60px]
+      w-[220px] xl:w-[410px]
+      bottom-[20px] xl:bottom-[60px]
       left-1/2
-      md:-translate-y-[-4%]
+      xl:-translate-y-[-4%]
       -translate-x-[40%]
     "
   />
@@ -153,7 +153,7 @@ const Home=()=>{
   <div
     className="
       absolute bottom-0 left-0 right-0
-      h-[120px] md:h-[164px]
+      h-[120px] xl:h-[164px]
       bg-gradient-to-t from-primary via-primary/90 to-primary/2
     "
   />

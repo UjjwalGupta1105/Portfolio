@@ -28,12 +28,12 @@ const About=()=>{
 
     return(
     <>
-    <h1 id="about" className="hidden md:block text-accent text-5xl md:text-5xl font-extrabold my-17 text-center md:text-left  md:m-20 md:mt-17">About Me</h1>
+    <h1 id="about" className="hidden xl:block text-accent text-5xl xl:text-5xl font-extrabold my-17 text-center xl:text-left  xl:m-20 xl:mt-17">About Me</h1>
      <section
       
-      className=" flex items-center justify-center px-6 md:px-20 mb-20"
+      className=" flex items-center justify-center px-6 xl:px-20 mb-20"
     >
-      <div className="grid grid-cols-1 md:grid-cols-2  gap-6 md:gap-1 items-center max-w-7xl">
+      <div className="grid grid-cols-1 xl:grid-cols-2  gap-6 xl:gap-1 items-center max-w-7xl">
 
         {/* LEFT: Image */}
         <motion.div
@@ -43,9 +43,9 @@ const About=()=>{
           viewport={{ once: true, amount: 0.3 }}
           className="flex justify-center"
         >
-          {/* <div className="w-72 h-72 md:w-80 md:h-80 rounded-2xl overflow-hidden border border-white/10 hover:shadow-[0_0_30px_#5810ff40]
+          {/* <div className="w-72 h-72 xl:w-80 xl:h-80 rounded-2xl overflow-hidden border border-white/10 hover:shadow-[0_0_30px_#5810ff40]
 "> */}
-          <div className="hidden md:block w-[21%] flex-1 relative z-20 md:ml-14">
+          <div className="hidden xl:block w-[21%] flex-1 relative z-20 xl:ml-14">
                 <Blob containerStyles="w-[435px] h-[435px]"></Blob>
                 <Image
                     src="/Profile-Top.png"
@@ -96,7 +96,7 @@ const About=()=>{
             bg-white/5
             border border-[#5810ff]/30
             text-white text-sm font-medium
-            backdrop-blur-md
+            backdrop-blur-xl
             transition-all duration-300
             hover:-translate-y-1
             hover:shadow-[0_0_25px_#5810ff40]
