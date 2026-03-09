@@ -16,6 +16,16 @@ import {
 const projectData = [
   {
     nums: "1.",
+    category: "Sprintly",
+    description:
+      "Developed Sprintly, a Jira-inspired full-stack project management platform enabling teams to create and manage projects with Kanban boards, sprint planning and issue lifecycle tracking, streamlining team task management and improving workflow efficiency",
+    stack: ["Next JS","React JS", "Prisma", "PostgreSQL", "Neon DB", "Tailwind CSS" "Framer Motion"],
+    image: "/Sprintly.png",
+    live: "https://sprintly-abc.vercel.app/",
+    github: "https://github.com/UjjwalGupta1105/Sprintly",
+  },
+  {
+    nums: "2.",
     category: "ServiceGo",
     description:
       "A full-stack service booking platform enabling users to discover, book, and professionally manage services with dedicated admin and professional dashboards.",
@@ -25,7 +35,7 @@ const projectData = [
     github: "https://github.com/UjjwalGupta1105/ServiceGo",
   },
   {
-    nums: "2.",
+    nums: "3.",
     category: "TripGenie",
     description:
       "An AI-powered trip planning application that generates personalized travel itineraries based on user preferences for a smarter travel experience.",
@@ -35,7 +45,7 @@ const projectData = [
     github: "https://github.com/UjjwalGupta1105/Trip-Genie",
   },
   {
-    nums: "3.",
+    nums: "4.",
     category: "JustBuy",
     description:
       "A full-stack MERN e-commerce platform designed to deliver a complete online shopping experience with secure authentication, cart management, and seamless payments.",
