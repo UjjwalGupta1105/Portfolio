@@ -19,7 +19,7 @@ const projectData = [
     category: "Sprintly",
     description:
       "Developed Sprintly, a Jira-inspired full-stack project management platform enabling teams to create and manage projects with Kanban boards, sprint planning and issue lifecycle tracking, streamlining team task management and improving workflow efficiency",
-    stack: ["Next JS","React JS", "Prisma", "PostgreSQL", "Neon DB", "Tailwind CSS" "Framer Motion"],
+    stack: ["Next JS","React JS", "Prisma", "PostgreSQL", "Neon DB", "Tailwind CSS", "Framer Motion"],
     image: "/Sprintly.png",
     live: "https://sprintly-abc.vercel.app/",
     github: "https://github.com/UjjwalGupta1105/Sprintly",
