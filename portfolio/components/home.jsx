@@ -44,7 +44,7 @@ const Home=()=>{
                     transform your ideas into seamless, engaging digital experiences.</p>
 
                 <div className="p-7">
-                    <a href="https://drive.google.com/file/d/1QqcPP-QzGhwBNa_yuKW68Ls2SI6ftMOy/view" target="_blank">
+                    <a href="https://drive.google.com/file/d/1cNlx4lOWp4Ol70M0CKooEqnv3lY5G_P-/view?usp=sharing" target="_blank">
                        <div className="btn btn-lg btn-accent ">Resume<FiArrowRight className="rotate-320" size={27} /></div>
                      
                     </a>
@@ -107,7 +107,7 @@ const Home=()=>{
                     </a>
 
                     <a
-                        href="https://www.codechef.com/users/ujjwaxlupta11"
+                        href="https://www.codechef.com/users/ujjwalgupta11"
                         target="_blank"
                         className={`${baseStyle} ${hoverStyle}`}
                         title="CodeChef"
