@@ -4,6 +4,27 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
+  title: "Software Engineer Intern",
+  organization: "InterviewCall",
+  duration: "March 2026 – April 2026",
+  description: (
+    <p className="text-white/80 leading-relaxed space-y-2">
+      <span className="block">
+        • Engineered <span className="text-[#5810ff] font-medium">scalable full-stack features</span> using Next.js (TypeScript) and Node.js (Express) in a microservices architecture.
+      </span>
+      <span className="block">
+        • Designed and managed <span className="text-[#5810ff] font-medium">database architecture</span> using Sequelize ORM, including models, migrations, and seeders, reducing inconsistencies by ~30%.
+      </span>
+      <span className="block">
+        • Improved <span className="text-[#5810ff] font-medium">API performance</span> through caching and optimized request handling, reducing response time by ~20–30%.
+      </span>
+      <span className="block">
+        • Optimized <span className="text-[#5810ff] font-medium">production codebases</span> by fixing critical bugs and enhancing system stability and reliability.
+      </span>
+    </p>
+  )
+},
+  {
     title: "ReactJS Developement Intern",
     organization: "Antmore Labs Pvt Ltd",
     duration: "SEP 2024 – JAN 2025",
@@ -59,7 +80,7 @@ const experiences = [
     title: "Bachelors of Technology(B.Tech)[ECE]",
     organization: "Madan Mohan Malaviya University of Technology, Gorakhpur(MMMUT)",
     duration: "Sep 2023 – May 2027",
-    CGPA: "8.17/10",
+    CGPA: "8.31/10",
   },
 ];
 

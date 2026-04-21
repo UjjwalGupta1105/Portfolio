@@ -15,6 +15,8 @@ import {
   SiExpress,
   SiMongodb,
   SiMysql,
+  SiTypescript,
+  SiSequelize
 } from "react-icons/si";
 
 import { FaCogs, FaServer, FaDatabase } from "react-icons/fa";
@@ -117,6 +119,8 @@ export default function Skills() {
             { icon: SiHtml5, label: "HTML" },
             { icon: SiCss3, label: "CSS" },
             { icon: SiJavascript, label: "JavaScript" },
+            { icon: SiTypescript, label: "TypeScript" },  
+            { icon: SiSequelize, label: "Sequelize ORM" }, 
           ]}
         />
 

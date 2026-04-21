@@ -82,9 +82,9 @@ const About=()=>{
          {/* Highlights */}
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
     {[
-        "MERN Stack Developer",
+        "Full Stack Developer",
         "Strong DSA Knowledge",
-         "Internship Experience",
+        "Internship Experiences",
         "Open Source Contributor",
         "Problem Solver",
         "CS Fundamentals",
