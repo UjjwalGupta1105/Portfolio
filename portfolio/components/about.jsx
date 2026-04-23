@@ -76,7 +76,7 @@ const About=()=>{
           <p className="text-white/80 leading-relaxed mb-8">
             I am <span className="text-accent font-bold ">Ujjwal Gupta</span> pre-final year B.Tech student(2027 Batch) at 
             <span className="text-accent font-bold"> Madan Mohan Malaviya University of Technology, Gorakhpur(MMMUT)</span>, a passionate Full Stack Developer with strong foundations in Data Structures and Algorithms.
-             I have hands-on experience building scalable full-stack applications, along with internship experience and active open-source contributions.
+             I have hands-on experience building scalable full-stack applications, along with internship experiences and active open-source contributions.
           </p>
 
          {/* Highlights */}

@@ -10,13 +10,13 @@ const experiences = [
   description: (
     <p className="text-white/80 leading-relaxed space-y-2">
       <span className="block">
-        • Engineered <span className="text-[#5810ff] font-medium">scalable full-stack features</span> using Next.js (TypeScript) and Node.js (Express) in a microservices architecture.
+        • Engineered <span className="text-[#5810ff] font-medium">scalable full-stack features</span> using Next.js (TypeScript) and Node.js (Express) in a <span className="text-[#5810ff] font-medium">microservices architecture</span>.
       </span>
       <span className="block">
-        • Designed and managed <span className="text-[#5810ff] font-medium">database architecture</span> using Sequelize ORM, including models, migrations, and seeders, reducing inconsistencies by ~30%.
+        • Designed and managed <span className="text-[#5810ff] font-medium">Sequelize ORM, including models, migrations, and seeders</span>, reducing inconsistencies by ~30%.
       </span>
       <span className="block">
-        • Improved <span className="text-[#5810ff] font-medium">API performance</span> through caching and optimized request handling, reducing response time by ~20–30%.
+        • Improved API performance through <span className="text-[#5810ff] font-medium">caching and optimized request handling</span>, reducing response time by ~20–30%.
       </span>
       <span className="block">
         • Optimized <span className="text-[#5810ff] font-medium">production codebases</span> by fixing critical bugs and enhancing system stability and reliability.
@@ -24,28 +24,27 @@ const experiences = [
     </p>
   )
 },
-  {
-    title: "ReactJS Developement Intern",
-    organization: "Antmore Labs Pvt Ltd",
-    duration: "SEP 2024 – JAN 2025",
-    description:
-      <p className="text-white/80 leading-relaxed space-y-2">
-  <span className="block">
-    • Built an <span className="text-[#5810ff] font-medium">embeddable JavaScript SDK</span> enabling seamless one-click game launches with scalable multi-game support.
-  </span>
-  <span className="block">
-    • Developed a <span className="text-[#5810ff] font-medium">Comic Book App</span> using React.js with immersive visuals and a fully responsive UI.
-  </span>
-  <span className="block">
-    • Created a <span className="text-[#5810ff] font-medium">MERN e-commerce platform</span> with Context API, REST APIs, and Razorpay integration.
-  </span>
-  <span className="block">
-    • Strengthened <span className="text-[#5810ff] font-medium">teamwork and problem-solving</span> through cross-functional collaboration.
-  </span>
-</p>
-
-
-  },
+ {
+  title: "ReactJS Development Intern",
+  organization: "Antmore Labs Pvt Ltd",
+  duration: "SEP 2024 – JAN 2025",
+  description: (
+    <p className="text-white/80 leading-relaxed space-y-2">
+      <span className="block">
+        • Built an <span className="text-[#5810ff] font-medium">embeddable JavaScript SDK</span> delivering seamless one-click game launching with robust, scalable multi-game support.
+      </span>
+      <span className="block">
+        • Designed and developed a <span className="text-[#5810ff] font-medium">Comic Book App</span>, an interactive React.js platform with immersive visuals and a fully responsive, optimized UI.
+      </span>
+      <span className="block">
+        • Engineered a <span className="text-[#5810ff] font-medium">MERN-based e-commerce platform</span> using Redux Toolkit, RESTful APIs, and Razorpay payment integration.
+      </span>
+      <span className="block">
+        • Collaborated across <span className="text-[#5810ff] font-medium">frontend and backend teams</span> to deliver scalable features, improving performance and reducing production issues.
+      </span>
+    </p>
+  ),
+},
   {
     title: "Open Source Contributor",
     organization: "GirlScript Summer of Code (GSSoC)",
