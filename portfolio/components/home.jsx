@@ -39,7 +39,7 @@ const Home=()=>{
                 cursor={false}
                 />
                 </h1>
-                <p className="max-w-[500px] m-5 mt-[0px]  mb-[14px]" >
+                <p className="max-w-[500px] m-5 ml-[10px] mt-[0px]  mb-[14px]" >
                    Full Stack Developer | Problem Solver | 3★ CodeChef | C++/C | TypeScript | React.js | Node.js | AI/ML & GenAI Enthusiast | LLMs | RAG | LangChain | Ex- SWE Intern | GSSOC’24 | MMMUT’27 </p>
 
                 <div className="p-7">
