@@ -36,8 +36,8 @@ API, and REST APIs </span> accelerating feature development by ∼30%.
       </span>
       <span className="block">
         • Delivered an embeddable <span className="text-[#5810ff] font-medium">JavaScript SDK</span>, an interactive <span className="text-[#5810ff] font-medium">Comic Book Platform</span>, and a  
-        <span className="text-[#5810ff] font-medium">MERN based e-commerce
-platform</span>, contributing to <span className="text-[#5810ff] font-medium">multiple production-ready products</span>.
+        <span className="text-[#5810ff] font-medium"> MERN based </span>e-commerce
+platform, contributing to <span className="text-[#5810ff] font-medium">multiple production-ready products</span>.
         
       </span>
       <span className="block">
