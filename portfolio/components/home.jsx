@@ -30,7 +30,7 @@ const Home=()=>{
         <div className="xl:w-[90%] m-8 mt-1 mb-10 xl:mb-0 mx-[auto] flex flex-col xl:flex-row items-center
         justify-between ">
             <div className="order-2 xl:order-1">
-            <div className="w-full xl:ml-[15px] h-[370px] sm:h-[300px] md:h-[340] flex flex-col items-center xl:items-start
+            <div className="w-full xl:ml-[15px] h-[380px] sm:h-[320px] md:h-[365] flex flex-col items-center xl:items-start
             text-center xl:text-left">
                 <h1 className="h1 inline-block flex-1 mt-0 m-5 mb-[2px]  p-2">Hi! I'm Ujjwal Gupta,<br/>
                 <TypeAnimation sequence={["Web Developer",2000,"Problem Solver",2000,"Fast Learner",2000]} 
