@@ -40,7 +40,7 @@ const Home=()=>{
                 />
                 </h1>
                 <p className="max-w-[500px] m-5 mt-[0px]  mb-[14px]" >
-                   Full Stack Developer focused on building scalable, high-performance applications with strong foundations in Data Structures & Algorithms.</p>
+                   Full Stack Developer | Problem Solver | 3★ CodeChef | C++/C | TypeScript | React.js | Node.js | AI/ML & GenAI Enthusiast | LLMs | RAG | LangChain | Ex- SWE Intern | GSSOC’24 | MMMUT’27 </p>
 
                 <div className="p-7">
                     <a href="https://drive.google.com/file/d/11tJqUUtXTPal975zp5UALkuX-NkInLfU/view" target="_blank">
