@@ -68,11 +68,11 @@ const Home=()=>{
 
                 {/* Email */}
                 <a
-                    href="mailto:ujjwal@example.com"
+                    href="mailto:ujjwalgupta0506@gmail.com"
                     className="text-[#5810ff] hover:scale-110 transition-transform duration-300"
                     aria-label="Email"
                 >
-                    <FiMail className="inline" size={22} /><span className="text-xl text-white"> ujjwaxlupta0506@gmail.com</span>
+                    <FiMail className="inline" size={22} /><span className="text-xl text-white"> ujjwalgupta0506@gmail.com</span>
             
                 </a>
 
