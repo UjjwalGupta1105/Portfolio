@@ -31,13 +31,14 @@ const experiences = [
   description: (
     <p className="text-white/80 leading-relaxed space-y-2">
       <span className="block">
-        • Built an <span className="text-[#5810ff] font-medium">embeddable JavaScript SDK</span> delivering seamless one-click game launching with robust, scalable multi-game support.
+        • Developed and maintained <span className="text-[#5810ff] font-medium">high-performance React.js applications</span> using <span className="text-[#5810ff] font-medium">Redux Toolkit, React Query, Context
+API, and REST APIs </span> accelerating feature development by ∼30%.
       </span>
       <span className="block">
-        • Designed and developed a <span className="text-[#5810ff] font-medium">Comic Book App</span>, an interactive React.js platform with immersive visuals and a fully responsive, optimized UI.
-      </span>
-      <span className="block">
-        • Engineered a <span className="text-[#5810ff] font-medium">MERN-based e-commerce platform</span> using Redux Toolkit, RESTful APIs, and Razorpay payment integration.
+        • Delivered an embeddable <span className="text-[#5810ff] font-medium">JavaScript SDK</span>, an interactive <span className="text-[#5810ff] font-medium">Comic Book Platform</span>, and a  
+        <span className="text-[#5810ff] font-medium">MERN based e-commerce
+platform</span>, contributing to <span className="text-[#5810ff] font-medium">multiple production-ready products</span>.
+        
       </span>
       <span className="block">
         • Collaborated across <span className="text-[#5810ff] font-medium">frontend and backend teams</span> to deliver scalable features, improving performance and reducing production issues.
@@ -78,8 +79,8 @@ const experiences = [
   {
     title: "Bachelors of Technology(B.Tech)[ECE]",
     organization: "Madan Mohan Malaviya University of Technology, Gorakhpur(MMMUT)",
-    duration: "Sep 2023 – May 2027",
-    CGPA: "8.31/10",
+    duration: "Sep 2023 – Apr 2027",
+    CGPA: "8.35/10",
   },
 ];
 
